@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./styles.css";
 
-const BACKEND_URL = "https://lannister-production.up.railway.app";
+const BACKEND_URL = "https://backend-makingjuliandiaz.up.railway.app";
 
 export default function App() {
   const [producto, setProducto] = useState("");
